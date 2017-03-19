@@ -1,0 +1,9 @@
+c:\users\bruno\documents\visual studio 2015\Projects\Modelo3D_TP_CG\Modelo3D_TP_CG\bin\Debug\Modelo3D_TP_CG.exe.config
+c:\users\bruno\documents\visual studio 2015\Projects\Modelo3D_TP_CG\Modelo3D_TP_CG\bin\Debug\Modelo3D_TP_CG.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Modelo3D_TP_CG\Modelo3D_TP_CG\bin\Debug\Modelo3D_TP_CG.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.Form1.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2015\Projects\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.csprojResolveAssemblyReference.cache
