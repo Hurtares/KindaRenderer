@@ -7,3 +7,13 @@ c:\users\bruno\documents\visual studio 2015\Projects\Modelo3D_TP_CG\Modelo3D_TP_
 c:\users\bruno\documents\visual studio 2015\Projects\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.exe
 c:\users\bruno\documents\visual studio 2015\Projects\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.pdb
 c:\users\bruno\documents\visual studio 2015\Projects\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\OneDrive\Codigo\CSharp\KindaRenderer\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.exe
+C:\Users\Bruno\OneDrive\Codigo\CSharp\KindaRenderer\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.pdb
+C:\Users\Bruno\OneDrive\Codigo\CSharp\KindaRenderer\Modelo3D_TP_CG\Modelo3D_TP_CG\bin\Debug\Modelo3D_TP_CG.exe.config
+C:\Users\Bruno\OneDrive\Codigo\CSharp\KindaRenderer\Modelo3D_TP_CG\Modelo3D_TP_CG\bin\Debug\Modelo3D_TP_CG.exe
+C:\Users\Bruno\OneDrive\Codigo\CSharp\KindaRenderer\Modelo3D_TP_CG\Modelo3D_TP_CG\bin\Debug\Modelo3D_TP_CG.pdb
+C:\Users\Bruno\OneDrive\Codigo\CSharp\KindaRenderer\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.csprojAssemblyReference.cache
+C:\Users\Bruno\OneDrive\Codigo\CSharp\KindaRenderer\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.Form1.resources
+C:\Users\Bruno\OneDrive\Codigo\CSharp\KindaRenderer\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.Properties.Resources.resources
+C:\Users\Bruno\OneDrive\Codigo\CSharp\KindaRenderer\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.csproj.GenerateResource.cache
+C:\Users\Bruno\OneDrive\Codigo\CSharp\KindaRenderer\Modelo3D_TP_CG\Modelo3D_TP_CG\obj\Debug\Modelo3D_TP_CG.csproj.CoreCompileInputs.cache

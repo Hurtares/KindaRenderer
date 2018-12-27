@@ -304,8 +304,14 @@ namespace Modelo3D_TP_CG {
 
         private void norm_A_CheckedChanged(object sender , EventArgs e) {
 
-        } 
-               
+        }
+
+        private void sairToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+            Console.WriteLine("Just Dance");
+        }
+
         private void norm_B_CheckedChanged(object sender , EventArgs e) {
 
         }
